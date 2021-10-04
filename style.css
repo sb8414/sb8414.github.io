@@ -63,9 +63,12 @@ body{
   pointer-events: none;
   transition: all 0.3s ease;
 }
-.inputField button:hover,
-.footer button:hover{
+.inputField button:hover{
   background: #199121;
+}
+    
+.footer button:hover{
+  background: #a31d1d;
 }
 .inputField button.active{
   opacity: 1;

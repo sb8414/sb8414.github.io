@@ -56,7 +56,7 @@ body{
   margin-left: 5px;
   font-size: 21px;
   outline: none;
-  background: #47dee6;
+  background: #23cc2e;
   cursor: pointer;
   border-radius: 3px;
   opacity: 0.6;
@@ -65,7 +65,7 @@ body{
 }
 .inputField button:hover,
 .footer button:hover{
-  background: #3300ff;
+  background: #199121;
 }
 .inputField button.active{
   opacity: 1;
@@ -91,10 +91,10 @@ body{
   right: -45px;
   top: 50%;
   transform: translateY(-50%);
-  background: #3300ff;
+  background: #d92727;
   width: 45px;
   text-align: center;
-  color: #000000;
+  color: #fff;
   padding: 10px 15px;
   border-radius: 0 3px 3px 0;
   cursor: pointer;
@@ -115,11 +115,11 @@ body{
   border-radius: 3px;
   border: none;
   outline: none;
-  color: #000000;
+  color: #fff;
   font-weight: 400;
   font-size: 16px;
   margin-left: 5px;
-  background: #47dee6;
+  background: #d92727;
   cursor: pointer;
   user-select: none;
   opacity: 0.6;

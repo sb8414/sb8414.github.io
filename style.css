@@ -65,7 +65,7 @@ body{
 }
 .inputField button:hover,
 .footer button:hover{
-  background: #47dee6;
+  background: #3300ff;
 }
 .inputField button.active{
   opacity: 1;

@@ -56,7 +56,7 @@ body{
   margin-left: 5px;
   font-size: 21px;
   outline: none;
-  background: ##47dee6;
+  background: #47dee6;
   cursor: pointer;
   border-radius: 3px;
   opacity: 0.6;
@@ -65,7 +65,7 @@ body{
 }
 .inputField button:hover,
 .footer button:hover{
-  background: #e31c9d;
+  background: #47dee6;
 }
 .inputField button.active{
   opacity: 1;
